@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "slug": "purple-haze-flower",
+    "name": "Purple Haze Premium",
+    "shortDescription": "Classic sativa-dominant strain with vibrant purple hues",
+    "description": "Experience the legendary Purple Haze strain with high THCA content and exceptional terpene profile. This sativa-dominant hybrid delivers an uplifting and energizing experience perfect for daytime use. Lab-tested for purity and potency.",
+    "thcaPercent": 28.5,
+    "category": "flower",
+    "price": 45.99,
+    "stock": 15,
+    "badges": ["Sativa", "Premium"],
+    "labResultsUrl": "https://example-lab-results.com/ph001",
+    "weight": "3.5g",
+    "images": {
+      "primary": "/img/cogollo.jpg",
+      "hover": "/img/cogollo2.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "og-kush-flower",
+    "name": "OG Kush Classic",
+    "shortDescription": "Indica-dominant strain with earthy pine flavors",
+    "description": "The legendary OG Kush delivers potent effects with a complex terpene profile featuring myrcene and limonene. Perfect for evening relaxation with high THCA content and exceptional quality standards.",
+    "thcaPercent": 26.8,
+    "category": "flower",
+    "price": 42.99,
+    "stock": 22,
+    "badges": ["Indica", "Classic"],
+    "labResultsUrl": "https://example-lab-results.com/og002",
+    "weight": "3.5g",
+    "images": {
+      "primary": "/img/cogollo3.jpg",
+      "hover": "/img/cogollo4.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "slug": "blue-dream-preroll",
+    "name": "Blue Dream Pre-Roll",
+    "shortDescription": "Perfectly rolled hybrid for on-the-go enjoyment",
+    "description": "Expertly crafted pre-rolls featuring our premium Blue Dream flower. Each joint is carefully rolled with natural papers and contains 1 gram of high-THCA flower. Perfect for sharing or personal use.",
+    "thcaPercent": 24.2,
+    "category": "pre-roll",
+    "price": 18.99,
+    "stock": 35,
+    "badges": ["Hybrid", "Convenient"],
+    "labResultsUrl": "https://example-lab-results.com/bd003",
+    "weight": "1g",
+    "images": {
+      "primary": "/img/cogollo5.jpg",
+      "hover": "/img/cogollo6.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "slug": "gelato-vape-cart",
+    "name": "Gelato Vape Cartridge",
+    "shortDescription": "Premium distillate vape with natural terpenes",
+    "description": "Pure THCA distillate infused with natural Gelato terpenes. Our 510-thread cartridges use ceramic heating elements for optimal flavor delivery. Lab-tested for pesticides and heavy metals.",
+    "thcaPercent": 85.3,
+    "category": "vape",
+    "price": 55.99,
+    "stock": 18,
+    "badges": ["Hybrid", "Distillate"],
+    "labResultsUrl": "https://example-lab-results.com/gel004",
+    "weight": "1g",
+    "images": {
+      "primary": "/img/cogollo2.jpg",
+      "hover": "/img/cogollo3.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "slug": "wedding-cake-flower",
+    "name": "Wedding Cake",
+    "shortDescription": "Sweet indica-dominant flower with vanilla notes",
+    "description": "Indulge in the sweet and relaxing effects of Wedding Cake. This indica-dominant strain features dense, frosty buds with a complex flavor profile of vanilla and cake batter. High THCA content ensures potent effects.",
+    "thcaPercent": 29.1,
+    "category": "flower",
+    "price": 48.99,
+    "stock": 12,
+    "badges": ["Indica", "Sweet"],
+    "labResultsUrl": "https://example-lab-results.com/wc005",
+    "weight": "3.5g",
+    "images": {
+      "primary": "/img/cogollo4.jpg",
+      "hover": "/img/cogollo5.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "slug": "sour-diesel-preroll-pack",
+    "name": "Sour Diesel 5-Pack",
+    "shortDescription": "Five premium pre-rolls of energizing Sour Diesel",
+    "description": "Perfect for sharing or stocking up. This 5-pack contains premium Sour Diesel pre-rolls, each containing 0.5g of high-THCA flower. Sour Diesel is known for its diesel aroma and energizing sativa effects.",
+    "thcaPercent": 25.7,
+    "category": "pre-roll",
+    "price": 39.99,
+    "stock": 25,
+    "badges": ["Sativa", "Value Pack"],
+    "labResultsUrl": "https://example-lab-results.com/sd006",
+    "weight": "2.5g",
+    "images": {
+      "primary": "/img/cogollo6.jpg",
+      "hover": "/img/cogollo.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "slug": "northern-lights-vape",
+    "name": "Northern Lights Vape",
+    "shortDescription": "Classic indica strain in premium vape format",
+    "description": "Experience the legendary Northern Lights in our premium vape cartridge. This pure indica strain provides deeply relaxing effects perfect for evening use. CO2 extracted for maximum purity and potency.",
+    "thcaPercent": 82.4,
+    "category": "vape",
+    "price": 52.99,
+    "stock": 14,
+    "badges": ["Indica", "CO2 Extract"],
+    "labResultsUrl": "https://example-lab-results.com/nl007",
+    "weight": "1g",
+    "images": {
+      "primary": "/img/cogollo3.jpg",
+      "hover": "/img/cogollo2.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "slug": "gorilla-glue-premium",
+    "name": "Gorilla Glue #4",
+    "shortDescription": "Potent hybrid with sticky, resinous buds",
+    "description": "One of the most potent strains available, Gorilla Glue #4 delivers heavy-handed euphoria and relaxation. These dense, resin-covered buds showcase the strain's legendary potency and distinct earthy aroma.",
+    "thcaPercent": 31.2,
+    "category": "flower",
+    "price": 52.99,
+    "stock": 8,
+    "badges": ["Hybrid", "Ultra Premium"],
+    "labResultsUrl": "https://example-lab-results.com/gg008",
+    "weight": "3.5g",
+    "images": {
+      "primary": "/img/cogollo5.jpg",
+      "hover": "/img/cogollo4.jpg"
+    }
+  }
+]
