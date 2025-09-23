@@ -44,12 +44,13 @@ const HomePage = () => {
             </div>
             <div className="col-lg-6">
               <div className="text-center">
-                <img 
-                  src="./public/img/cogollo6.jpg" 
-                  alt="Premium Cannabis"
-                  className="img-fluid rounded-3 shadow-lg"
-                  style={{ maxHeight: '400px', objectFit: 'cover' }}
-                />
+               <img
+  src="/img/cogollo6.jpg"   // ✅ así se referencia algo en /public/img
+  alt="Premium Cannabis"
+  className="img-fluid rounded-3 shadow-lg"
+  style={{ maxHeight: '400px', objectFit: 'cover' }}
+/>
+
               </div>
             </div>
           </div>
